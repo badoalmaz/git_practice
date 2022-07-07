@@ -1,0 +1,7 @@
+.wallpaper {
+  background: url('https://media0.giphy.com/media/ayMW3eqvuP00o/giphy.gif?cid=ecf05e47b7f24pqraf3spvi1t6pqn8luor4bhqkymkzbe69p&rid=giphy.gif&ct=g') no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  width: 50%;
+  height: 100vh;
+}
